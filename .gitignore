@@ -15,3 +15,8 @@ wheels/
 
 # Vercel
 .vercel
+
+# Social video exports
+social/*.mp4
+
+.vercel
