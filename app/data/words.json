@@ -1,0 +1,3635 @@
+[
+  {
+    "id": "a",
+    "display": "a",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "uh",
+        "heart": true
+      }
+    ],
+    "meaning": "one single person, place, or thing",
+    "sentence": "I see a little bird."
+  },
+  {
+    "id": "and",
+    "display": "and",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "together with",
+    "sentence": "Sam and I play."
+  },
+  {
+    "id": "away",
+    "display": "away",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "ay",
+        "phoneme": "ay",
+        "heart": false
+      }
+    ],
+    "meaning": "not here, off to another place",
+    "sentence": "The dog ran away."
+  },
+  {
+    "id": "big",
+    "display": "big",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      }
+    ],
+    "meaning": "large",
+    "sentence": "Look at the big truck."
+  },
+  {
+    "id": "blue",
+    "display": "blue",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "ue",
+        "phoneme": "oo",
+        "heart": false
+      }
+    ],
+    "meaning": "the color of the sky",
+    "sentence": "Her bike is blue."
+  },
+  {
+    "id": "can",
+    "display": "can",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "c",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "able to",
+    "sentence": "I can hop."
+  },
+  {
+    "id": "come",
+    "display": "come",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "c",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "to move toward where you are",
+    "sentence": "Come play at my house."
+  },
+  {
+    "id": "down",
+    "display": "down",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "ow",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "from a high place to a low place",
+    "sentence": "Sit down on the rug."
+  },
+  {
+    "id": "find",
+    "display": "find",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "ie",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "to look for and see",
+    "sentence": "Can you find your shoe?"
+  },
+  {
+    "id": "for",
+    "display": "for",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "or",
+        "phoneme": "or",
+        "heart": false
+      }
+    ],
+    "meaning": "used to show who gets something",
+    "sentence": "This present is for you."
+  },
+  {
+    "id": "funny",
+    "display": "funny",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "nn",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "makes you laugh",
+    "sentence": "That joke is funny."
+  },
+  {
+    "id": "go",
+    "display": "go",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      }
+    ],
+    "meaning": "to move away",
+    "sentence": "We go to the park."
+  },
+  {
+    "id": "help",
+    "display": "help",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      }
+    ],
+    "meaning": "to make it easier for someone",
+    "sentence": "Please help me zip."
+  },
+  {
+    "id": "here",
+    "display": "here",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "ere",
+        "phoneme": "eer",
+        "heart": true
+      }
+    ],
+    "meaning": "in this place right now",
+    "sentence": "Come sit over here with me."
+  },
+  {
+    "id": "i",
+    "display": "I",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "I",
+        "phoneme": "ie",
+        "heart": true
+      }
+    ],
+    "meaning": "the person talking about themselves",
+    "sentence": "I like to read books."
+  },
+  {
+    "id": "in",
+    "display": "in",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "inside a place",
+    "sentence": "The cat is in the box."
+  },
+  {
+    "id": "is",
+    "display": "is",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      }
+    ],
+    "meaning": "being right now",
+    "sentence": "The sun is warm today."
+  },
+  {
+    "id": "it",
+    "display": "it",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "that thing",
+    "sentence": "It is a red ball."
+  },
+  {
+    "id": "jump",
+    "display": "jump",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "j",
+        "phoneme": "j",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      }
+    ],
+    "meaning": "to hop up",
+    "sentence": "Frogs jump on the log."
+  },
+  {
+    "id": "little",
+    "display": "little",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "tt",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "le",
+        "phoneme": "ul",
+        "heart": false
+      }
+    ],
+    "meaning": "small",
+    "sentence": "A little bug sat on the leaf."
+  },
+  {
+    "id": "look",
+    "display": "look",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "oo",
+        "phoneme": "oo",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "to use your eyes",
+    "sentence": "Look at the moon."
+  },
+  {
+    "id": "make",
+    "display": "make",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "ay",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "to build or create",
+    "sentence": "Let us make a cake."
+  },
+  {
+    "id": "me",
+    "display": "me",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "the person talking",
+    "sentence": "Come sit with me."
+  },
+  {
+    "id": "my",
+    "display": "my",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ie",
+        "heart": false
+      }
+    ],
+    "meaning": "belonging to me",
+    "sentence": "This is my favorite bedtime story."
+  },
+  {
+    "id": "not",
+    "display": "not",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "o",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "the opposite of yes",
+    "sentence": "That is not my hat."
+  },
+  {
+    "id": "one",
+    "display": "one",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "wuh",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "the number 1",
+    "sentence": "There is one slice of cake left."
+  },
+  {
+    "id": "play",
+    "display": "play",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "ay",
+        "phoneme": "ay",
+        "heart": false
+      }
+    ],
+    "meaning": "to have fun",
+    "sentence": "We play tag at recess."
+  },
+  {
+    "id": "red",
+    "display": "red",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "the color of an apple",
+    "sentence": "The wagon is red."
+  },
+  {
+    "id": "run",
+    "display": "run",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "to move fast on your feet",
+    "sentence": "We run to the gate."
+  },
+  {
+    "id": "said",
+    "display": "said",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "ai",
+        "phoneme": "e",
+        "heart": true
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "talked or told someone something",
+    "sentence": "Dad said, \"Time for bed.\""
+  },
+  {
+    "id": "see",
+    "display": "see",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "ee",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "to look at with your eyes",
+    "sentence": "I see the bright moon."
+  },
+  {
+    "id": "the",
+    "display": "the",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "uh",
+        "heart": true
+      }
+    ],
+    "meaning": "used to point to a specific thing",
+    "sentence": "The cat sat on the mat."
+  },
+  {
+    "id": "three",
+    "display": "three",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "ee",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "the number 3",
+    "sentence": "I see three ducks."
+  },
+  {
+    "id": "to",
+    "display": "to",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "moving toward a place or goal",
+    "sentence": "We walked to the park."
+  },
+  {
+    "id": "two",
+    "display": "two",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "w",
+        "phoneme": "-",
+        "heart": true
+      },
+      {
+        "letters": "o",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "the number 2",
+    "sentence": "I have two hands."
+  },
+  {
+    "id": "up",
+    "display": "up",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      }
+    ],
+    "meaning": "toward the sky",
+    "sentence": "The balloon went up."
+  },
+  {
+    "id": "we",
+    "display": "we",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "you and I",
+    "sentence": "We read a book."
+  },
+  {
+    "id": "where",
+    "display": "where",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "wh",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "ere",
+        "phoneme": "air",
+        "heart": true
+      }
+    ],
+    "meaning": "asking about a place",
+    "sentence": "Where did you put the crayons?"
+  },
+  {
+    "id": "yellow",
+    "display": "yellow",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "y",
+        "phoneme": "y",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "ll",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "oh",
+        "heart": false
+      }
+    ],
+    "meaning": "the color of the sun",
+    "sentence": "The bus is yellow."
+  },
+  {
+    "id": "you",
+    "display": "you",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "pre-primer",
+    "graphemes": [
+      {
+        "letters": "y",
+        "phoneme": "y",
+        "heart": false
+      },
+      {
+        "letters": "ou",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "the person being spoken to",
+    "sentence": "You did a fantastic job!"
+  },
+  {
+    "id": "all",
+    "display": "all",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "aw",
+        "heart": false
+      },
+      {
+        "letters": "ll",
+        "phoneme": "l",
+        "heart": false
+      }
+    ],
+    "meaning": "every one",
+    "sentence": "All the kids line up."
+  },
+  {
+    "id": "am",
+    "display": "am",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      }
+    ],
+    "meaning": "the form of is that goes with I",
+    "sentence": "I am six."
+  },
+  {
+    "id": "are",
+    "display": "are",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "ar",
+        "phoneme": "ar",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "plural form of is",
+    "sentence": "You are doing great work!"
+  },
+  {
+    "id": "at",
+    "display": "at",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "in a place",
+    "sentence": "We met at the pond."
+  },
+  {
+    "id": "ate",
+    "display": "ate",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "ay",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "did eat",
+    "sentence": "She ate an apple."
+  },
+  {
+    "id": "be",
+    "display": "be",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "to happen or exist",
+    "sentence": "Be kind to the dog."
+  },
+  {
+    "id": "black",
+    "display": "black",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "ck",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "the darkest color",
+    "sentence": "The tire is black."
+  },
+  {
+    "id": "brown",
+    "display": "brown",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "ow",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "the color of a tree trunk",
+    "sentence": "The horse is brown."
+  },
+  {
+    "id": "but",
+    "display": "but",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "however",
+    "sentence": "I am small, but I can help."
+  },
+  {
+    "id": "came",
+    "display": "came",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "c",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "ay",
+        "heart": false
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "did come",
+    "sentence": "Grandma came to visit."
+  },
+  {
+    "id": "did",
+    "display": "did",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "the past of do",
+    "sentence": "Did you feed the fish?"
+  },
+  {
+    "id": "do",
+    "display": "do",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "to perform an action",
+    "sentence": "Can you do a silly dance?"
+  },
+  {
+    "id": "eat",
+    "display": "eat",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "ea",
+        "phoneme": "ee",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "to chew and swallow food",
+    "sentence": "We eat lunch at noon."
+  },
+  {
+    "id": "four",
+    "display": "four",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "our",
+        "phoneme": "or",
+        "heart": true
+      }
+    ],
+    "meaning": "the number 4",
+    "sentence": "A chair has four legs."
+  },
+  {
+    "id": "get",
+    "display": "get",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "to receive or fetch",
+    "sentence": "Please get your coat."
+  },
+  {
+    "id": "good",
+    "display": "good",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "oo",
+        "phoneme": "oo",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "nice or well done",
+    "sentence": "That was a good try."
+  },
+  {
+    "id": "have",
+    "display": "have",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "v",
+        "phoneme": "v",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "to own or hold something",
+    "sentence": "We have two friendly dogs."
+  },
+  {
+    "id": "he",
+    "display": "he",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "a boy, man, or male animal",
+    "sentence": "He plays with his toy car."
+  },
+  {
+    "id": "into",
+    "display": "into",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "to the inside of",
+    "sentence": "The frog hopped into the pond."
+  },
+  {
+    "id": "like",
+    "display": "like",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "ie",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "to enjoy",
+    "sentence": "I like warm soup."
+  },
+  {
+    "id": "must",
+    "display": "must",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "have to",
+    "sentence": "You must wash your hands."
+  },
+  {
+    "id": "new",
+    "display": "new",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "ew",
+        "phoneme": "yoo",
+        "heart": false
+      }
+    ],
+    "meaning": "just made or just found",
+    "sentence": "She has new shoes."
+  },
+  {
+    "id": "no",
+    "display": "no",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      }
+    ],
+    "meaning": "not yes",
+    "sentence": "No, that cup is mine."
+  },
+  {
+    "id": "now",
+    "display": "now",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "ow",
+        "heart": false
+      }
+    ],
+    "meaning": "at this time",
+    "sentence": "We can read now."
+  },
+  {
+    "id": "on",
+    "display": "on",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "o",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "touching the top of",
+    "sentence": "The book is on the desk."
+  },
+  {
+    "id": "our",
+    "display": "our",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "ou",
+        "phoneme": "ow",
+        "heart": false
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      }
+    ],
+    "meaning": "belonging to us",
+    "sentence": "This is our classroom."
+  },
+  {
+    "id": "out",
+    "display": "out",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "ou",
+        "phoneme": "ow",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "not inside",
+    "sentence": "The dog wants out."
+  },
+  {
+    "id": "please",
+    "display": "please",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "ea",
+        "phoneme": "ee",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "a kind way to ask",
+    "sentence": "Please pass the crayons."
+  },
+  {
+    "id": "pretty",
+    "display": "pretty",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "i",
+        "heart": true
+      },
+      {
+        "letters": "tt",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "nice to look at",
+    "sentence": "The flower is pretty."
+  },
+  {
+    "id": "ran",
+    "display": "ran",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "did run",
+    "sentence": "He ran to first base."
+  },
+  {
+    "id": "ride",
+    "display": "ride",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "ie",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "to sit on and travel",
+    "sentence": "We ride the bus."
+  },
+  {
+    "id": "saw",
+    "display": "saw",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "aw",
+        "phoneme": "aw",
+        "heart": false
+      }
+    ],
+    "meaning": "did see",
+    "sentence": "I saw a deer."
+  },
+  {
+    "id": "say",
+    "display": "say",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "ay",
+        "phoneme": "ay",
+        "heart": false
+      }
+    ],
+    "meaning": "to speak",
+    "sentence": "Say the sound of m."
+  },
+  {
+    "id": "she",
+    "display": "she",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "sh",
+        "phoneme": "sh",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "a girl, woman, or female animal",
+    "sentence": "She paints the sun."
+  },
+  {
+    "id": "so",
+    "display": "so",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      }
+    ],
+    "meaning": "very, or for that reason",
+    "sentence": "The pup is so soft."
+  },
+  {
+    "id": "soon",
+    "display": "soon",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "oo",
+        "phoneme": "oo",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "in a short time",
+    "sentence": "Lunch is soon."
+  },
+  {
+    "id": "that",
+    "display": "that",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "the one over there",
+    "sentence": "That hat is mine."
+  },
+  {
+    "id": "there",
+    "display": "there",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "ere",
+        "phoneme": "air",
+        "heart": true
+      }
+    ],
+    "meaning": "in that place over there",
+    "sentence": "Look over there by the tree."
+  },
+  {
+    "id": "they",
+    "display": "they",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "ey",
+        "phoneme": "ay",
+        "heart": true
+      }
+    ],
+    "meaning": "a group of people or things",
+    "sentence": "They are playing a game."
+  },
+  {
+    "id": "this",
+    "display": "this",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      }
+    ],
+    "meaning": "the one right here",
+    "sentence": "This pencil is sharp."
+  },
+  {
+    "id": "too",
+    "display": "too",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "oo",
+        "phoneme": "oo",
+        "heart": false
+      }
+    ],
+    "meaning": "also, or more than enough",
+    "sentence": "I want to come too."
+  },
+  {
+    "id": "under",
+    "display": "under",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      },
+      {
+        "letters": "er",
+        "phoneme": "er",
+        "heart": false
+      }
+    ],
+    "meaning": "below",
+    "sentence": "The cat is under the bed."
+  },
+  {
+    "id": "want",
+    "display": "want",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "o",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "to wish for",
+    "sentence": "I want a turn."
+  },
+  {
+    "id": "was",
+    "display": "was",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      }
+    ],
+    "meaning": "happened in the past",
+    "sentence": "It was very sunny yesterday."
+  },
+  {
+    "id": "well",
+    "display": "well",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "ll",
+        "phoneme": "l",
+        "heart": false
+      }
+    ],
+    "meaning": "in a good way",
+    "sentence": "You read that well."
+  },
+  {
+    "id": "went",
+    "display": "went",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "did go",
+    "sentence": "We went to the library."
+  },
+  {
+    "id": "what",
+    "display": "what",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "wh",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "o",
+        "heart": true
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "asking for information",
+    "sentence": "What is your favorite color?"
+  },
+  {
+    "id": "white",
+    "display": "white",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "wh",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "ie",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "the color of snow",
+    "sentence": "The clouds are white."
+  },
+  {
+    "id": "who",
+    "display": "who",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "wh",
+        "phoneme": "h",
+        "heart": true
+      },
+      {
+        "letters": "o",
+        "phoneme": "oo",
+        "heart": true
+      }
+    ],
+    "meaning": "asking about a person",
+    "sentence": "Who is knocking on the door?"
+  },
+  {
+    "id": "will",
+    "display": "will",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "ll",
+        "phoneme": "l",
+        "heart": false
+      }
+    ],
+    "meaning": "going to",
+    "sentence": "I will share my snack."
+  },
+  {
+    "id": "with",
+    "display": "with",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      }
+    ],
+    "meaning": "together or using",
+    "sentence": "Come with me."
+  },
+  {
+    "id": "yes",
+    "display": "yes",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "primer",
+    "graphemes": [
+      {
+        "letters": "y",
+        "phoneme": "y",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      }
+    ],
+    "meaning": "the opposite of no",
+    "sentence": "Yes, you may have a turn."
+  },
+  {
+    "id": "after",
+    "display": "after",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "er",
+        "phoneme": "er",
+        "heart": false
+      }
+    ],
+    "meaning": "later than",
+    "sentence": "We play after lunch."
+  },
+  {
+    "id": "again",
+    "display": "again",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "ai",
+        "phoneme": "e",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "one more time",
+    "sentence": "Read that line again."
+  },
+  {
+    "id": "an",
+    "display": "an",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "one, used before a vowel sound",
+    "sentence": "I ate an egg."
+  },
+  {
+    "id": "any",
+    "display": "any",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "e",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "one, or some, it does not matter which",
+    "sentence": "Take any crayon."
+  },
+  {
+    "id": "as",
+    "display": "as",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      }
+    ],
+    "meaning": "in the same way or while",
+    "sentence": "He ran as fast as he could."
+  },
+  {
+    "id": "ask",
+    "display": "ask",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "to say a question",
+    "sentence": "Ask for help if you need it."
+  },
+  {
+    "id": "by",
+    "display": "by",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "b",
+        "phoneme": "b",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ie",
+        "heart": false
+      }
+    ],
+    "meaning": "near or close to",
+    "sentence": "Sit by the window to watch the rain."
+  },
+  {
+    "id": "could",
+    "display": "could",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "c",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "oul",
+        "phoneme": "oo",
+        "heart": true
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "was able to do something",
+    "sentence": "He could run really fast."
+  },
+  {
+    "id": "every",
+    "display": "every",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "v",
+        "phoneme": "v",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ee",
+        "heart": false
+      }
+    ],
+    "meaning": "each one",
+    "sentence": "Every child gets a book."
+  },
+  {
+    "id": "fly",
+    "display": "fly",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "y",
+        "phoneme": "ie",
+        "heart": false
+      }
+    ],
+    "meaning": "to move through the air",
+    "sentence": "Birds fly to the tree."
+  },
+  {
+    "id": "from",
+    "display": "from",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "f",
+        "phoneme": "f",
+        "heart": false
+      },
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      }
+    ],
+    "meaning": "starting point of someone or something",
+    "sentence": "This letter is from grandma."
+  },
+  {
+    "id": "give",
+    "display": "give",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "v",
+        "phoneme": "v",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "to hand something to another person",
+    "sentence": "Please give this note to mom."
+  },
+  {
+    "id": "going",
+    "display": "going",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "g",
+        "phoneme": "g",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      },
+      {
+        "letters": "ing",
+        "phoneme": "ing",
+        "heart": false
+      }
+    ],
+    "meaning": "on the way",
+    "sentence": "We are going home."
+  },
+  {
+    "id": "had",
+    "display": "had",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "did have",
+    "sentence": "She had a red hat."
+  },
+  {
+    "id": "has",
+    "display": "has",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      }
+    ],
+    "meaning": "owns or holds something right now",
+    "sentence": "She has a red backpack."
+  },
+  {
+    "id": "her",
+    "display": "her",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "er",
+        "phoneme": "er",
+        "heart": false
+      }
+    ],
+    "meaning": "belonging to her",
+    "sentence": "That is her pencil."
+  },
+  {
+    "id": "him",
+    "display": "him",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      }
+    ],
+    "meaning": "that boy or man",
+    "sentence": "I will sit with him."
+  },
+  {
+    "id": "his",
+    "display": "his",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "z",
+        "heart": true
+      }
+    ],
+    "meaning": "belonging to him",
+    "sentence": "That is his favorite jacket."
+  },
+  {
+    "id": "how",
+    "display": "how",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "h",
+        "phoneme": "h",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "ow",
+        "heart": false
+      }
+    ],
+    "meaning": "in what way",
+    "sentence": "How old are you?"
+  },
+  {
+    "id": "just",
+    "display": "just",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "j",
+        "phoneme": "j",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "u",
+        "heart": false
+      },
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "only, or a moment ago",
+    "sentence": "I just sat down."
+  },
+  {
+    "id": "know",
+    "display": "know",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "k",
+        "phoneme": "-",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "ow",
+        "phoneme": "oh",
+        "heart": false
+      }
+    ],
+    "meaning": "to have learned",
+    "sentence": "I know the way home."
+  },
+  {
+    "id": "let",
+    "display": "let",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "to allow",
+    "sentence": "Let the puppy sniff."
+  },
+  {
+    "id": "live",
+    "display": "live",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "v",
+        "phoneme": "v",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "to make a home in a place",
+    "sentence": "Fish live underwater."
+  },
+  {
+    "id": "may",
+    "display": "may",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "ay",
+        "phoneme": "ay",
+        "heart": false
+      }
+    ],
+    "meaning": "allowed to, or might",
+    "sentence": "You may get a drink."
+  },
+  {
+    "id": "of",
+    "display": "of",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "f",
+        "phoneme": "v",
+        "heart": true
+      }
+    ],
+    "meaning": "belonging to or made from",
+    "sentence": "She drank a cup of water."
+  },
+  {
+    "id": "old",
+    "display": "old",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "l",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "having lived a long time",
+    "sentence": "That oak is old."
+  },
+  {
+    "id": "once",
+    "display": "once",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "wuh",
+        "heart": true
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "c",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "one time",
+    "sentence": "Once I saw a fox."
+  },
+  {
+    "id": "open",
+    "display": "open",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      },
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "not shut",
+    "sentence": "Please open the door."
+  },
+  {
+    "id": "over",
+    "display": "over",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "o",
+        "phoneme": "oh",
+        "heart": false
+      },
+      {
+        "letters": "v",
+        "phoneme": "v",
+        "heart": false
+      },
+      {
+        "letters": "er",
+        "phoneme": "er",
+        "heart": false
+      }
+    ],
+    "meaning": "above, or finished",
+    "sentence": "The bird flew over the roof."
+  },
+  {
+    "id": "put",
+    "display": "put",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      },
+      {
+        "letters": "u",
+        "phoneme": "oo",
+        "heart": true
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      }
+    ],
+    "meaning": "to place something",
+    "sentence": "Put the book on the shelf."
+  },
+  {
+    "id": "round",
+    "display": "round",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "r",
+        "phoneme": "r",
+        "heart": false
+      },
+      {
+        "letters": "ou",
+        "phoneme": "ow",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "shaped like a circle",
+    "sentence": "The moon looks round."
+  },
+  {
+    "id": "some",
+    "display": "some",
+    "kinds": [
+      "heart",
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "uh",
+        "heart": true
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": true
+      }
+    ],
+    "meaning": "a few or a small amount",
+    "sentence": "Can I have some more apples?"
+  },
+  {
+    "id": "stop",
+    "display": "stop",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "s",
+        "phoneme": "s",
+        "heart": false
+      },
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "o",
+        "phoneme": "o",
+        "heart": false
+      },
+      {
+        "letters": "p",
+        "phoneme": "p",
+        "heart": false
+      }
+    ],
+    "meaning": "to end moving",
+    "sentence": "Stop at the corner."
+  },
+  {
+    "id": "take",
+    "display": "take",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "t",
+        "phoneme": "t",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "ay",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "-",
+        "heart": false
+      }
+    ],
+    "meaning": "to carry with you",
+    "sentence": "Take your folder home."
+  },
+  {
+    "id": "thank",
+    "display": "thank",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "a",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "to say you are glad",
+    "sentence": "Thank your friend."
+  },
+  {
+    "id": "them",
+    "display": "them",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "m",
+        "phoneme": "m",
+        "heart": false
+      }
+    ],
+    "meaning": "those people or things",
+    "sentence": "I will help them."
+  },
+  {
+    "id": "then",
+    "display": "then",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "after that",
+    "sentence": "Wash, then dry your hands."
+  },
+  {
+    "id": "think",
+    "display": "think",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "th",
+        "phoneme": "th",
+        "heart": false
+      },
+      {
+        "letters": "i",
+        "phoneme": "i",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "to use your mind",
+    "sentence": "Think about the sound."
+  },
+  {
+    "id": "walk",
+    "display": "walk",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "a",
+        "phoneme": "aw",
+        "heart": false
+      },
+      {
+        "letters": "l",
+        "phoneme": "-",
+        "heart": true
+      },
+      {
+        "letters": "k",
+        "phoneme": "k",
+        "heart": false
+      }
+    ],
+    "meaning": "to go on foot",
+    "sentence": "We walk to school."
+  },
+  {
+    "id": "were",
+    "display": "were",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "ere",
+        "phoneme": "er",
+        "heart": true
+      }
+    ],
+    "meaning": "the past of are",
+    "sentence": "We were at the park."
+  },
+  {
+    "id": "when",
+    "display": "when",
+    "kinds": [
+      "sight"
+    ],
+    "dolch": "grade-1",
+    "graphemes": [
+      {
+        "letters": "wh",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "e",
+        "phoneme": "e",
+        "heart": false
+      },
+      {
+        "letters": "n",
+        "phoneme": "n",
+        "heart": false
+      }
+    ],
+    "meaning": "at what time",
+    "sentence": "When is recess?"
+  },
+  {
+    "id": "would",
+    "display": "would",
+    "kinds": [
+      "heart"
+    ],
+    "dolch": null,
+    "graphemes": [
+      {
+        "letters": "w",
+        "phoneme": "w",
+        "heart": false
+      },
+      {
+        "letters": "oul",
+        "phoneme": "oo",
+        "heart": true
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "wishing or imagining an action",
+    "sentence": "Would you like to go to the park?"
+  },
+  {
+    "id": "should",
+    "display": "should",
+    "kinds": [
+      "heart"
+    ],
+    "dolch": null,
+    "graphemes": [
+      {
+        "letters": "sh",
+        "phoneme": "sh",
+        "heart": false
+      },
+      {
+        "letters": "oul",
+        "phoneme": "oo",
+        "heart": true
+      },
+      {
+        "letters": "d",
+        "phoneme": "d",
+        "heart": false
+      }
+    ],
+    "meaning": "the right or best thing to do",
+    "sentence": "We should clean up our toys."
+  }
+]

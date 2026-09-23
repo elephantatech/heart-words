@@ -1,0 +1,288 @@
+[
+  {
+    "letter": "a",
+    "sound": "a",
+    "cue": "a as in apple",
+    "decodable": [
+      "at",
+      "am",
+      "an",
+      "bag"
+    ]
+  },
+  {
+    "letter": "b",
+    "sound": "b",
+    "cue": "b as in bear",
+    "decodable": [
+      "bat",
+      "bus",
+      "bed",
+      "big"
+    ]
+  },
+  {
+    "letter": "c",
+    "sound": "k",
+    "cue": "c as in cat",
+    "decodable": [
+      "cat",
+      "cup",
+      "cot",
+      "cap"
+    ]
+  },
+  {
+    "letter": "d",
+    "sound": "d",
+    "cue": "d as in dog",
+    "decodable": [
+      "dog",
+      "dad",
+      "dig",
+      "dot"
+    ]
+  },
+  {
+    "letter": "e",
+    "sound": "e",
+    "cue": "e as in egg",
+    "decodable": [
+      "bed",
+      "red",
+      "pen",
+      "hen"
+    ]
+  },
+  {
+    "letter": "f",
+    "sound": "f",
+    "cue": "f as in fish",
+    "decodable": [
+      "fun",
+      "fan",
+      "fig",
+      "fox"
+    ]
+  },
+  {
+    "letter": "g",
+    "sound": "g",
+    "cue": "g as in goat",
+    "decodable": [
+      "gum",
+      "gas",
+      "got",
+      "gap"
+    ]
+  },
+  {
+    "letter": "h",
+    "sound": "h",
+    "cue": "h as in hat",
+    "decodable": [
+      "hat",
+      "hop",
+      "hug",
+      "hit"
+    ]
+  },
+  {
+    "letter": "i",
+    "sound": "i",
+    "cue": "i as in igloo",
+    "decodable": [
+      "sit",
+      "pig",
+      "dig",
+      "pin"
+    ]
+  },
+  {
+    "letter": "j",
+    "sound": "j",
+    "cue": "j as in jam",
+    "decodable": [
+      "jam",
+      "jet",
+      "job",
+      "jug"
+    ]
+  },
+  {
+    "letter": "k",
+    "sound": "k",
+    "cue": "k as in kite",
+    "decodable": [
+      "kid",
+      "kit",
+      "keg",
+      "kin"
+    ]
+  },
+  {
+    "letter": "l",
+    "sound": "l",
+    "cue": "l as in lamp",
+    "decodable": [
+      "leg",
+      "lip",
+      "log",
+      "lap"
+    ]
+  },
+  {
+    "letter": "m",
+    "sound": "m",
+    "cue": "m as in moon",
+    "decodable": [
+      "mat",
+      "map",
+      "man",
+      "mad"
+    ]
+  },
+  {
+    "letter": "n",
+    "sound": "n",
+    "cue": "n as in nest",
+    "decodable": [
+      "net",
+      "nap",
+      "nod",
+      "nut"
+    ]
+  },
+  {
+    "letter": "o",
+    "sound": "o",
+    "cue": "o as in octopus",
+    "decodable": [
+      "hot",
+      "top",
+      "pot",
+      "dot"
+    ]
+  },
+  {
+    "letter": "p",
+    "sound": "p",
+    "cue": "p as in pig",
+    "decodable": [
+      "pan",
+      "pet",
+      "pig",
+      "pot"
+    ]
+  },
+  {
+    "letter": "q",
+    "sound": "kw",
+    "cue": "q as in queen",
+    "decodable": [
+      "quit",
+      "quip",
+      "quiz",
+      "quack"
+    ]
+  },
+  {
+    "letter": "r",
+    "sound": "r",
+    "cue": "r as in rain",
+    "decodable": [
+      "run",
+      "red",
+      "rip",
+      "rug"
+    ]
+  },
+  {
+    "letter": "s",
+    "sound": "s",
+    "cue": "s as in sun",
+    "decodable": [
+      "sun",
+      "sat",
+      "sip",
+      "sob"
+    ]
+  },
+  {
+    "letter": "t",
+    "sound": "t",
+    "cue": "t as in top",
+    "decodable": [
+      "top",
+      "tap",
+      "ten",
+      "tug"
+    ]
+  },
+  {
+    "letter": "u",
+    "sound": "u",
+    "cue": "u as in umbrella",
+    "decodable": [
+      "cup",
+      "sun",
+      "bug",
+      "hug"
+    ]
+  },
+  {
+    "letter": "v",
+    "sound": "v",
+    "cue": "v as in van",
+    "decodable": [
+      "van",
+      "vet",
+      "vat",
+      "vex"
+    ]
+  },
+  {
+    "letter": "w",
+    "sound": "w",
+    "cue": "w as in web",
+    "decodable": [
+      "wet",
+      "win",
+      "web",
+      "wag"
+    ]
+  },
+  {
+    "letter": "x",
+    "sound": "ks",
+    "cue": "x as in box",
+    "decodable": [
+      "box",
+      "fox",
+      "six",
+      "wax"
+    ]
+  },
+  {
+    "letter": "y",
+    "sound": "y",
+    "cue": "y as in yo-yo",
+    "decodable": [
+      "yak",
+      "yam",
+      "yes",
+      "yet"
+    ]
+  },
+  {
+    "letter": "z",
+    "sound": "z",
+    "cue": "z as in zoo",
+    "decodable": [
+      "zip",
+      "zap",
+      "zig",
+      "zit"
+    ]
+  }
+]

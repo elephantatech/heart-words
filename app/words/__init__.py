@@ -1,0 +1,1 @@
+"""Word catalog loading."""
