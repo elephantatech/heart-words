@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f3ecdf" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Heart words" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <title>Heart words</title>
+  </head>
+  <body>
+    <div class="sheet">
+      <header class="top">
+        <a class="brand" href="#/">Heart words</a>
+        <div class="top-side">
+          <nav>
+            <a href="#/" data-view="today">Today</a>
+            <a href="#/sheets" data-view="sheets">Sheets</a>
+            <a href="#/cards" data-view="cards">Cards</a>
+            <a href="#/words" data-view="words">Word list</a>
+          </nav>
+          <a class="login-link" href="#/login" data-view="login">Login</a>
+        </div>
+      </header>
+      <main id="app"></main>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+A daily page for grade 1.
+
+Trace the uppercase and lowercase letter between the lines. Sound out two heart words and two sight words, then find them in the word hunt.
+
+The math sheet is on the same page: write the number, count the dots, count on, and skip-count by 2s, 5s, or 10s.
+
+Practice on the screen, or print both sheets on letter paper.
+
+https://github.com/elephantatech/heart-words
+
+#grade1 #heartwords #sightwords #learntoread #skipcounting

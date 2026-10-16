@@ -1,6 +1,0 @@
-<span class="spell">{%- for piece in word.graphemes -%}
-  <span class="box{% if piece.heart %} heart{% endif %}">
-    <span class="letters">{{ piece.letters }}</span>
-    <span class="phoneme">{% if piece.phoneme == "-" %}quiet{% else %}{{ piece.phoneme }}{% endif %}</span>
-  </span>
-{%- endfor -%}</span>

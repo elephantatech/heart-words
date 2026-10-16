@@ -1,0 +1,12 @@
+{
+  "name": "heart-words",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix web install",
+    "dev": "npm --prefix web run dev",
+    "start": "npm --prefix web run dev",
+    "build": "npm --prefix web run build",
+    "test": "npm --prefix web test",
+    "preview": "npm --prefix web run preview"
+  }
+}

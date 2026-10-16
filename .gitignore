@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Node
+node_modules/
+
 # Word owner locks and generated printouts
 ~$*
 *.docx

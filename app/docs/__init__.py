@@ -1,1 +1,0 @@
-"""Printable Word documents."""
