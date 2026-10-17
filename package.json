@@ -1,6 +1,7 @@
 {
   "name": "heart-words",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "postinstall": "npm --prefix web install",
     "dev": "npm --prefix web run dev",

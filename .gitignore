@@ -19,7 +19,7 @@ node_modules/
 # Vercel
 .vercel
 
-# Social video exports
-social/*.mp4
+# Local social posts and video exports. Keep this folder off the public repo.
+social/
 
 .vercel

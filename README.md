@@ -1,5 +1,8 @@
 # Heart words
 
+[![Unit tests](https://github.com/elephantatech/heart-words/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/elephantatech/heart-words/actions/workflows/unit-tests.yml)
+[![Build](https://github.com/elephantatech/heart-words/actions/workflows/build.yml/badge.svg)](https://github.com/elephantatech/heart-words/actions/workflows/build.yml)
+
 Grade 1 practice for heart words, sight words, and a daily math sheet. Grade 5 has a daily language page and a math page. Kindergarten and grades 2 through 4 are listed for later. It runs in the browser and can be installed on a tablet. Parent and student profiles stay on that device.
 
 ## Run
@@ -32,3 +35,13 @@ Print today’s sheet from the page. It is letter size. The math sheet starts on
 Heart words are the set from the original card generator. Sight words are the Dolch pre-primer, primer, and grade 1 lists. Meanings, sentences, and sound marks live in `web/src/data/words.json` and `web/src/data/letters.json`. The daily letter starts at A on 2026-09-01 and moves one letter ahead each calendar day. New sheet makes another mix for that same day.
 
 The reading font is [Andika](https://software.sil.org/andika/), bundled under the SIL Open Font License. See `web/public/fonts/OFL.txt`.
+
+## License
+
+The code and the lesson text are copyright (c) 2026 Elephantatech and released under the MIT license. See `LICENSE`.
+
+Andika is not covered by that license. It remains under the SIL Open Font License, and the name Andika is a reserved font name. See `web/public/fonts/OFL.txt`.
+
+Sight words are the Dolch pre-primer, primer, and grade 1 lists.
+
+To contribute, read `CONTRIBUTING.md`. Reports of private information belong in `SECURITY.md`. Community rules are in `CODE_OF_CONDUCT.md`.

@@ -1,6 +1,7 @@
 {
   "name": "heart-words",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
